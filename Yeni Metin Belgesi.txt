@@ -1,6 +1,0 @@
-slmgr.vbs /ipk BB6NG-PQ82V-VRDPW-8XVD2-V8P66
-slmgr.vbs /skms kms.lotro.cc
-slmgr.vbs /ato
-
-
-#slmgr.vbs /ipk Y9NXP-XT8MV-PT9TG-97CT3-9D6TC
